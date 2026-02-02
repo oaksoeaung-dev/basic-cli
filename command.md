@@ -78,11 +78,17 @@ Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller
 > Search avaliable package in winget
 
 ```pwsh
-winget serach package_name
+winget serach ***
 ```
 
 > Installing package with `winget`
 
 ```pwsh
-winget install package_name
+winget install ***
+```
+
+> Uninstalling package with `winget`
+
+```pwsh
+winget uninstall ***
 ```
