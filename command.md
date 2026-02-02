@@ -11,7 +11,6 @@ whoami
 ```pwsh
 pwd
 ```
----
 
 > Change Directory
 
