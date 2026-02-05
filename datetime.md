@@ -73,6 +73,8 @@ print(formatted_day2);
 05 Date 02 Month 2026 Year 19:51:04
 ```
 
+---
+
 ## Dateime string to datetime object
 
 > Usage
@@ -96,3 +98,5 @@ print(birthday);
 ```
 2000-03-05 00:00:00
 ```
+
+---
